@@ -16,7 +16,7 @@ class App extends React.Component<{}, State> {
   render() {
     return (
       <>
-        <h1>Timeline Editor</h1>
+        <h1>Timeline Editor: PoC</h1>
         <SVGField />
       </>
     );
